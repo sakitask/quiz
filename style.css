@@ -1,0 +1,29 @@
+body {
+  width: 970px;
+  margin: 100px auto;
+}
+button {
+  cursor: pointer;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+dt, dd {
+  margin: 0;
+}
+dt {
+  float: left;
+}
+.text {
+  padding: 5px 0;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+}
+#home {
+  display: none;
+}
+#detail {
+  display: none;
+}
